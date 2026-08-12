@@ -1,0 +1,32 @@
+sentence1;sentence2;label
+"At 9:30am during the police questionnaire, Will says that he saw Jake killing Ruby by shooting her in the back.";"But at 12:30pm Infront of the Judge, Will swore that he saw Jake stabbing Ruby.";contradiction
+"In the police custody, Ross said that he saw Joey snatching Monica's purse.";"During the trial, Ross mentioned that Monica's purse was snatched by Joey.";neutral
+John states in the witness box that Bob stabbed Micheal.;"But before when Police asked, John stated that Tom stabbed Micheal.";contradiction
+The witness states that he saw James was trying to kill Rose from the bridge.;"During the trial, the witness mention that Rose was getting killed by James.";neutral
+"In the witness box, Steve states that he saw Jay stabbing Paul to death.";Steve omitted to mention that he saw Jay stab Paul to death.;contradiction
+Mike saw Sam stealing diamond necklace from Lisa's Bungalow.;"In court, Mike mentioned about Sam stealing Lisa's possessions. ";neutral
+The witness mentions that he saw Mike shooting Harvey dead with a gun.;"During the trial, the witness deposes that he saw Louis stabbing Harvey dead";contradiction
+"Jim, after kidnapped Ben's son, asked for 1 million dollar as a ransom.";"In exchange for Ben's son, Jim asked for 1 million dollar";neutral
+"At 9:30am during the Police questionnarie, Jake confessed that he snatched Amy's purse in the market.";"But at 12:30pm, during trial, Jake told he saw Charles snatching Amy's purse in market.";contradiction
+George murdered David during a fight.;George admitted he killed David in a fight.;neutral
+The witness states that a dark man stabbed Jeremy.;In the witness box the witness deposes that a fair man stabbed Jeremy.;contradiction
+Robert confessed he was planning on terrorist activities in New York.;"During a session in court, Robert told the judge about his terror activities.";neutral
+"Joey makes a statement before at the Police “When I arrived at the scene I saw Donald running away."";"In the witness box Joey says that “When I arrived at the scene, I saw Donald stab Roy in his chest."";contradiction
+Roy confessed to the police that he shot Smith dead during a bank robbery.;"During a trial, it came into jury's knowlegde that during a bank robbery, Smith was shot dead by Roy.";neutral
+The witness states that he saw James raping Rose from the bridge.;"During the trial, he omitted to mention that he saw James raping Rose from the bridge.";contradiction
+During police investigation Michelle said that she heard Ruby crying for help last night.;During court's session Michelle explained her story as how she heard Ruby ;neutral
+The eyewitness said that when he saw the accused standing there with his sword embedded in the neck of Ella.;The witness in his statement to the Police made no mention that he saw the accused standing there with his sword thrust neck of Ella.;contradiction
+"Harry, a serial killer, confessed of killing two civillians on the street of Las Vegas.";"During court's session , Harry agreed of killing two cilivillans in Las Vegas";neutral
+The witness in the recorded statement before the police said that he saw Peter running away by a nothern lane.;In the court the witness says that Peter ran away towards the southern lane.;contradiction
+Shane confessed of robbing Hermoine's jewellary shop at night;During a trial Shane said that he was going to rob Hermoine's jewellary shop.;neutral
+"In the police custody, Kevin said that he saw Robin running away with Jenna's purse.";"In the police custody, Kevin said that he saw Jenna running away with Robin's purse.";contradiction
+Apple Company claimed that Bill Gates stole Steve Jobs' patened Graphic User Interface(GUI) idea;Apple Company filed a lawsuit against Bill Gates for stealing Steve Jobs patened idea;neutral
+"In the police custody, Ted said that he saw Robin beating Barney.";"In the police custody, Ted said that he saw Robin killing Barney.";contradiction
+Mike saw Sam running away from the Lisa's Bunglow back door.;"In court, Mike mentioned about Sam running away.";neutral
+"In police custody, Will says that he saw Phil shooting James in the back.";"Infront of Judge, Will says that he saw Phil stabbing James in the back.";contradiction
+John states in the witness box that Bob stabbed Micheal.;But before the Police John stated that Tom stabbed Micheal.;contradiction
+"In police custody, Will says that he saw Phil shooting James in the back.";"Infront of Judge, Will says that he saw Phil shooting James in the back with a gun.";neutral
+The witness in the recorded statement said that he saw Peter running away by a nothern lane.;In the court the witness says that Peter ran away towards the southern lane.;contradiction
+"In the police custody, Kevin said that he saw Marget running away with Jessica's purse.";"Infront of Judge, Kevin said that he saw Marget running away.";neutral
+Sam kidnapped Jake's daughter in the market.;Sam kidnapped a girl in the market.;neutral
+"Mike stated infront of the judge that he killed Jessica, but according to forensics Ross killed Jessica.";After several months it was discovered that Ross was the one who killed Jessica.;contradiction
